@@ -29,7 +29,7 @@ px/
 
    Use the following format to access your image via jsDelivr:
 
-   > `https://cdn.jsdelivr.net/gh/cvyuan/px@main/<your-directory-name>/<your-image-name>`
+   > `https://cdn.jsdelivr.net/gh/Hilldog93/px@main/<your-directory-name>/<your-image-name>`
 
 3. Embed in Markdown / HTML 
 
@@ -38,5 +38,5 @@ px/
    Markdown
 
    ```
-   ![demo](https://cdn.jsdelivr.net/gh/cvyuan/px@main/demo/test.png)
+   ![demo](https://cdn.jsdelivr.net/gh/Hilldog93/px@main/demo/test.png)
    ```
